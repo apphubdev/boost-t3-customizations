@@ -1,1 +1,1 @@
-* Boost Technical Support: Customer Requests, Inquiries, & Custom Bug Fixes
+## Boost Technical Support: Customer Requests, Inquiries, & Custom Bug Fixes
